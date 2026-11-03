@@ -88,10 +88,11 @@
 
 | 平台 | 下载方式 |
 | --- | --- |
-| Windows x64 | 在最新版本页面的 **Assets** 中下载 `PianXiaoZao-Setup-<版本号>-x64.exe`，运行安装程序。 |
-| 其他平台 | 以各版本发布页实际提供的安装包为准。 |
+| Windows 64 位 | 下载 [Windows 安装包](https://github.com/zlqcoder/pianxiaozao-releases/releases/download/v0.4.14/PianXiaoZao-Setup-0.4.14-x64.exe)，运行安装程序。 |
+| Mac Apple 芯片 | 下载 [Apple 芯片安装包](https://github.com/zlqcoder/pianxiaozao-releases/releases/download/v0.4.14/PianXiaoZao-0.4.14-mac-arm64.dmg)，将片小造拖入“应用程序”。 |
+| Mac Intel 芯片 | 下载 [Intel 芯片安装包](https://github.com/zlqcoder/pianxiaozao-releases/releases/download/v0.4.14/PianXiaoZao-0.4.14-mac-x64.dmg)，将片小造拖入“应用程序”。 |
 
-安装包已内置运行所需组件，无需另外安装 Java、Python 或 FFmpeg。下载和云端 AI 功能需要可用的网络连接。
+Mac 需要 macOS 15 或更新版本，首次打开遇到系统提示时请参阅 [Mac 安装说明](https://github.com/zlqcoder/pianxiaozao-releases/releases/download/v0.4.14/macOS-install.md)。下载和云端 AI 功能需要可用的网络连接。
 
 `latest.yml` 和 `.blockmap` 等附件用于客户端更新，普通用户下载对应安装程序即可。版本变更和已知问题请查看各版本的发布说明。
 
